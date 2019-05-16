@@ -1,0 +1,4 @@
+*.beam
+.eunit
+ebin/couch_workers.app
+.DS_Store
